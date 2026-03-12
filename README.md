@@ -1,4 +1,4 @@
-# user-input-java-using-JOptionPane
+# JavaUserInput-JOptionPane
 This is a Java input and output with age and name using JOptionPane, making it a GUI program.
 
 # Details:
